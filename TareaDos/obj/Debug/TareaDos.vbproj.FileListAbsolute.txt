@@ -4,10 +4,13 @@ D:\Universidad\Progra IV\TareaDos\Tarea2\TareaDos\bin\Debug\TareaDos.pdb
 D:\Universidad\Progra IV\TareaDos\Tarea2\TareaDos\bin\Debug\TareaDos.xml
 D:\Universidad\Progra IV\TareaDos\Tarea2\TareaDos\obj\Debug\TareaDos.vbprojAssemblyReference.cache
 D:\Universidad\Progra IV\TareaDos\Tarea2\TareaDos\obj\Debug\TareaDos.Resources.resources
+<<<<<<< HEAD
+=======
+D:\Universidad\Progra IV\TareaDos\Tarea2\TareaDos\obj\Debug\TareaDos.NOTE.resources
+>>>>>>> UI
 D:\Universidad\Progra IV\TareaDos\Tarea2\TareaDos\obj\Debug\TareaDos.SplashScreen.resources
 D:\Universidad\Progra IV\TareaDos\Tarea2\TareaDos\obj\Debug\TareaDos.vbproj.GenerateResource.cache
 D:\Universidad\Progra IV\TareaDos\Tarea2\TareaDos\obj\Debug\TareaDos.vbproj.CoreCompileInputs.cache
 D:\Universidad\Progra IV\TareaDos\Tarea2\TareaDos\obj\Debug\TareaDos.exe
 D:\Universidad\Progra IV\TareaDos\Tarea2\TareaDos\obj\Debug\TareaDos.xml
 D:\Universidad\Progra IV\TareaDos\Tarea2\TareaDos\obj\Debug\TareaDos.pdb
-D:\Universidad\Progra IV\TareaDos\Tarea2\TareaDos\obj\Debug\TareaDos.NOTE.resources
